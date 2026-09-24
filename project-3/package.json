@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "resolutions": {
-    "js-yaml": "^3.14.1"
+    "js-yaml": "^3.14.1",
+    "browserslist": "^4.28.7"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
